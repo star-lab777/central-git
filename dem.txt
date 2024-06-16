@@ -1,0 +1,4 @@
+hello world
+hi world... how are you all
+>>>>>>> branch1
+
